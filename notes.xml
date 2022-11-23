@@ -1,0 +1,42 @@
+<object-stream>
+  <list>
+    <models.Note>
+      <noteTitle>Shauna</noteTitle>
+      <notePriority>5</notePriority>
+      <noteCategory>Work</noteCategory>
+      <isNoteArchived>false</isNoteArchived>
+      <items/>
+    </models.Note>
+    <models.Note>
+      <noteTitle>Holiday list</noteTitle>
+      <notePriority>3</notePriority>
+      <noteCategory>Holiday</noteCategory>
+      <isNoteArchived>false</isNoteArchived>
+      <items>
+        <models.Item>
+          <itemDescription>House</itemDescription>
+          <isItemCompleted>false</isItemCompleted>
+        </models.Item>
+      </items>
+    </models.Note>
+    <models.Note>
+      <noteTitle>Get new shoes</noteTitle>
+      <notePriority>1</notePriority>
+      <noteCategory></noteCategory>
+      <isNoteArchived>true</isNoteArchived>
+      <items>
+        <models.Item>
+          <itemDescription>Get new nike</itemDescription>
+          <isItemCompleted>true</isItemCompleted>
+        </models.Item>
+      </items>
+    </models.Note>
+    <models.Note>
+      <noteTitle>1</noteTitle>
+      <notePriority>1</notePriority>
+      <noteCategory>Work</noteCategory>
+      <isNoteArchived>false</isNoteArchived>
+      <items/>
+    </models.Note>
+  </list>
+</object-stream>
